@@ -6,13 +6,13 @@ Making the hangman game by the basic programming with Python.
 - The program will randomly select a word from the words provided.
 - If the guess is correct, the program will display the position(s) of the guessed character.
 - If the guess is incorrect, the program will display the hangman figure in the following order:
-a. Pole and rope
-b. Head
-c. Body
-d. Right arm
-e. Left arm
-f. Right leg
-g. Left leg
+1. Pole and rope
+2. Head
+3. Body
+4. Right arm
+5. Left arm
+6. Right leg
+7. Left leg
 - Player has **7 chances** to guess the word.
 - If the player exceeds **7 incorrect** guesses, the program will reveal the correct word.
 - The player can continue the game until all previously provided words have been correctly guessed.
